@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jodiezhuu
-- 👀 I’m interested in computer and data science!
+- 👀 I’m interested in computer science and finance!
 
 <!---
 jodiezhuu/jodiezhuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
