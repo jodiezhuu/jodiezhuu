@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @jodiezhuu
-- 👀 I’m interested in computer science and finance!
+- UWaterloo Computer Science '25
 
 <!---
 jodiezhuu/jodiezhuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
