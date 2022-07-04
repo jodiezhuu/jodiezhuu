@@ -1,4 +1,4 @@
-- UWaterloo Computer Science '25
+UWaterloo Computer Science '25
 
 <!---
 jodiezhuu/jodiezhuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
